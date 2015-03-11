@@ -26,7 +26,6 @@ public class SomeActivity extends Activity {
         editText = (EditText) findViewById(R.id.editText);
         textView = (TextView) findViewById(R.id.textView);
 
-
     }
 
     @Override
