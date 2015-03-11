@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroidTests</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="enter_text">Enter some text below</string>
+    <string name="your_text">Your text is</string>
+    <string name="click_me">Click me</string>
+</resources>
