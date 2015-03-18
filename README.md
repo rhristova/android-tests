@@ -1,2 +1,1 @@
-Android native UI tests 
-Android Espresso tests samples
+Android native UI tests & Android Espresso tests samples
